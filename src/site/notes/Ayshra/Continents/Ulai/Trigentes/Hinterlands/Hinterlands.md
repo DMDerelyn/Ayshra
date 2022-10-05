@@ -24,7 +24,7 @@ The main industries found within the city limits: ranching, forestry, butchery, 
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Blue Valley Farms.md\|Blue Valley Farms]]   | farm                                 | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Country Club Plaza.md\|Country Club Plaza]] | commercial                           | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crossroads.md\|Crossroads]]                 | residential                          | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crown Center.md\|Crown Center]]             | residential/commercial/industry      | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crown Center.md\|Crown Center]]             | residential/commercial               | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/East Bottoms.md\|East Bottoms]]             | industry                             | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Hospital Hill.md\|Hospital Hill]]           | residential/commercial/industry/none | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Independence.md\|Independence]]             | residential, commercial              | \-      |
