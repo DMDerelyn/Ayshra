@@ -33,17 +33,17 @@ The indiginous people and settlers clash, causing Stone to be unable to particip
 
 ## Population: 2,500 
 
-	Races Present: 
-	Race Relation Status:
-	Wealthy %:
-	Middle-class %:
-	Poverty %:
+	Races Present: Human, Dwarf, Elf, Tiefling, Halfling. 
+	Race Relation Status: Calm
+	Wealthy %: 5
+	Middle-class %: 15
+	Poverty %: 80
 	Crime rate: low/medium/high
 	
 
 ## Government:
-	type:
-	Public Services:
+	type: Democratic
+	Public Services: 
 
 Important government officials:
 
