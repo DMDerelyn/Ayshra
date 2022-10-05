@@ -14,12 +14,12 @@
 ## Neigborhoods:
 | File                                                                                            | Type                            | Summary |
 | ----------------------------------------------------------------------------------------------- | ------------------------------- | ------- |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Briarcliff Bluffs.md\|Briarcliff Bluffs]] | residential                     | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Civil Center.md\|Civil Center]]           | residential/commercial/industry | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/North Bottoms.md\|North Bottoms]]         | industry                        | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/River Quay.md\|River Quay]]               | commercial/industry             | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Smithmille.md\|Smithmille]]               | residential/industry            | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Staley Farms.md\|Staley Farms]]           | industry                        | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Smithmille.md\|Smithmille]]               | residential/industry            | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Briarcliff Bluffs.md\|Briarcliff Bluffs]] | residential                     | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/River Quay.md\|River Quay]]               | commercial/industry             | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/North Bottoms.md\|North Bottoms]]         | industry                        | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Civil Center.md\|Civil Center]]           | residential/commercial/industry | \-      |
 
 
 ## Industries/Guilds/Unions:
