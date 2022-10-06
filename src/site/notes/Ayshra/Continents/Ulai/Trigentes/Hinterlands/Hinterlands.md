@@ -50,7 +50,7 @@ The main industries found within the city limits: ranching, forestry, butchery, 
 	
 
 ## Government:
-	type: Constitutional Monarchy
+	type: Monarchy
 	Public Services: Homeless shelter, food pantry, and workforce concscription
 
 Important government officials:
