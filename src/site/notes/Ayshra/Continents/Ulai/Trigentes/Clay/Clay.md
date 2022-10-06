@@ -31,15 +31,15 @@
 ## Population: 5,000 
 
 	Races Present: 
-	Race Relation Status:
-	Wealthy %:
-	Middle-class %:
-	Poverty %:
-	Crime rate: low/medium/high
+	Race Relation Status: Fair
+	Wealthy %: 5
+	Middle-class %: 40
+	Poverty %: 45
+	Crime rate: ??
 	
 
 ## Government:
-	type:
+	type: ??
 	Public Services:
 
 Important government officials:
