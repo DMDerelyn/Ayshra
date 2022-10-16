@@ -12,7 +12,7 @@ Locals complain about the noise, which is minimal compared to the surrounding ar
 
 ## Location:
 	Settlement: Clay
-	Area of Settlement: North
+	Area of Settlement: North East
 	Zoned for: industry
 
 ## History:
