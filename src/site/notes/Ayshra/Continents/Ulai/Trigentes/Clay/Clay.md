@@ -57,8 +57,9 @@ Important government officials:
 | ---- | ---- | -------- |
 
 ## Taverns:
-| File | Location |
-| ---- | -------- |
+| File                                                                              | Location   |
+| --------------------------------------------------------------------------------- | ---------- |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Landmarks/Casino Queen.md\|Casino Queen]] | River Quay |
 
 ## Parks & Recreation:
 | File | Location |
