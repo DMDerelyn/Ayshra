@@ -12,7 +12,7 @@ It houses one of the oldest cemetaries in the [[Ayshra/Continents/Ulai/Trigentes
 
 ## Location:
 	Settlement: Clay
-	Area of Settlement: South West
+	Area of Settlement: West
 	Zoned for: residential/industry/none
 
 ## History:
