@@ -10,11 +10,11 @@ The [[Cobalt River|Cobalt River]] splits off to a smaller, unnamed river that go
 
 Many of the smaller settlements to the west use river boats to transport goods here, where they are then processed, divided, and carried to the train for further transport to the east. 
 
-At the mouth of the two rivers, the [[Casino Queen|Casino Queen]] (named as an insult to the Queen of [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Hinterlands|Hinterlands]]) lives. 
+At the mouth of the two rivers, the [[Ayshra/Continents/Ulai/Trigentes/Clay/Landmarks/Casino Queen|Casino Queen]] (named as an insult to the Queen of [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Hinterlands|Hinterlands]]) lives. 
 
 ## Location:
 	Settlement: Clay
-	Area of Settlement: North East
+	Area of Settlement: South West
 	Zoned for: commercial/industry
 
 ## History:
