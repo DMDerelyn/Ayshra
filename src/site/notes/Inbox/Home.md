@@ -17,4 +17,4 @@
 - [[Ayshra/Renown & Presitge Points|Renown & Presitge Points]]
 - [[Ayshra/Economics|Economics]]
 
-(More to come as we progress)
+(More to come as we progress through our campaign)
