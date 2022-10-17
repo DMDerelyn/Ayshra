@@ -15,5 +15,5 @@
 
 ## Information:
 - [[Ayshra/Economics|Economics]]
-
-(More to come as we progress through our campaign)
+- [[Ayshra/Crime & Punishment|Crime & Punishment]]
+- [[Ayshra/Renown & Presitge Points|Renown & Presitge Points]]
