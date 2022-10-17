@@ -14,7 +14,6 @@
 - [[Ayshra/Continents/Ulai/Trigentes/Trigentes|Trigentes]]
 
 ## Information:
-- [[Ayshra/Renown & Presitge Points|Renown & Presitge Points]]
 - [[Ayshra/Economics|Economics]]
 
 (More to come as we progress through our campaign)
