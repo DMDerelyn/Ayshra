@@ -27,7 +27,7 @@ Renown points can be gained through completing tasks/quests or through downtime 
 
 ### Prestige Points:
 
-Prestige points are gained 1:1 with renown points, and can be spent on special benefits.
+Prestige points are gained 1:1 with renown points, and can be spent on special benefits. Benefits from lower renown rankings can be used at higher renown levels.
 
 #### Renown 1:
 
@@ -70,3 +70,4 @@ Prestige points are gained 1:1 with renown points, and can be spent on special b
 10PP: One character may put their names in the running to ascend to be the second-in-command for the given faction. Depending on the faction, they must either be elected, appointed, or complete a task/quest/trial. Perks of being second-in-command include unfettered access to the faction's base. This character cannot bring unapproved guests, but does have influence on who can and cannot be approved for access.  The character can call on an expert investigator, scholar, librarian, or other knowledgeable member of the faction to answer a single question without spending any Prestige Points. The character can stay in any level accomodation for free, and not pay for food. The character gains a modest income of 5s/day.
 
 Picking this option causes the character to lose all titles with other factions, but has no impact on the reputation with other friendly factions. The character's status with rival factions will automaticaly drop to Hated unless at Hunted, in which case it will remain at Hunted. If the character goes against the aims and goals of the faction, they can be removed, and will have their Renown points reduced by 5. 
+
