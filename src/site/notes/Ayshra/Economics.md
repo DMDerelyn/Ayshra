@@ -61,3 +61,7 @@ Sending a voice message directly to someone from the post office: 5s (if they ha
 ### Fantasy items:
 Healing Potion: 400s (40g)
 
+### Home:
+Prefabricated materials & delivery: 850g - 2,500g (depending on size) (includes structure, roofing, flooring, siding)
+Cost of labor: 8s/worker/day (360g - 480g)
+Time to build: 90 - 120 days (depending on size) w/ 5 workers
