@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/stone/neighborhoods/mission-farms/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/stone/neighborhoods/mission-farms/"}
 ---
 
 # Mission Farms
