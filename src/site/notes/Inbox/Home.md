@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/inbox/home/","tags":"gardenEntry"}
 ---
 
 # Ayshra
@@ -11,10 +11,10 @@
 
 
 ## Regions:
-- [[Ayshra/Continents/Ulai/Trigentes/Trigentes|Trigentes]]
+- [[Ayshra/Continents/Ulai/Trigentes/Trigentes\|Trigentes]]
 
 ## Information:
-- [[Ayshra/Economics|Economics]]
-- [[Ayshra/Renown & Presitge Points|Renown & Presitge Points]]
-- [[Ayshra/Crime & Punishment|Crime & Punishment]]
+- [[Inbox/Economics\|Economics]]
+- [[Ayshra/Renown & Presitge Points\|Renown & Presitge Points]]
+- [[Ayshra/Crime & Punishment\|Crime & Punishment]]
 
