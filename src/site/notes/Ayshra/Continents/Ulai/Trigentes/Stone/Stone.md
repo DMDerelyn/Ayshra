@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/stone/stone/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/stone/stone/"}
 ---
 
 # Stone
@@ -17,12 +17,12 @@ The indiginous people and settlers clash, causing Stone to be unable to particip
 ## Neigborhoods:
 | File                                                                                           | Type                            | Summary |
 | ---------------------------------------------------------------------------------------------- | ------------------------------- | ------- |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Armourdale.md\|Armourdale]]             | industry                        | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Mission Farms.md\|Mission Farms]]       | agriculture                     | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Overland Square.md\|Overland Square]]   | residential/commercial/industry | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Stony Point.md\|Stony Point]]           | residential                     | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Strawberry Hills.md\|Strawberry Hills]] | residential/commercial          | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Westheights.md\|Westheights]]           | residential                     | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Armourdale\|Armourdale]]             | industry                        | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Mission Farms\|Mission Farms]]       | agriculture                     | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Overland Square\|Overland Square]]   | residential/commercial/industry | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Westheights\|Westheights]]           | residential                     | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Stony Point\|Stony Point]]           | residential                     | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Strawberry Hills\|Strawberry Hills]] | residential/commercial          | \-      |
 
 
 ## Industries/Guilds/Unions:
