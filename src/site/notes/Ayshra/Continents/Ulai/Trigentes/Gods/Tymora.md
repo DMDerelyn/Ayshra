@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/gods/tymora/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/gods/tymora/"}
 ---
 
 # Tymora
