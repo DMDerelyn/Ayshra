@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/campaign-01/session-notes/session-00/"}
+{"dg-publish":true,"permalink":"/ayshra/campaign-01/session-notes/session-00/","dgShowLocalGraph":true}
 ---
 
 # 000_20221006
