@@ -29,8 +29,8 @@ The main industries found within the city limits: ranching, forestry, butchery, 
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/East Bottoms\|East Bottoms]]             | industry                             | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Independence\|Independence]]             | residential, commercial              | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/River Market\|River Market]]             | commercial                           | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/West Bottoms\|West Bottoms]]             | commercial                           | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Westport\|Westport]]                     | residential/commercial/industry/none | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/West Bottoms\|West Bottoms]]             | commercial                           | \-      |
 
 
 ## Industries/Guilds/Unions:
