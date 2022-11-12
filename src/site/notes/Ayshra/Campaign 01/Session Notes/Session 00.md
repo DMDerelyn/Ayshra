@@ -17,7 +17,6 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                                |
 | [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Parties Began their Adventure in Trigentes  |
 | [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | The Party Investigates the Blackhand Killer |
-| [[Templates/Session Template\|Session Template]]            |                                             |
 
 
 ## Backstories:
