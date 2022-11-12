@@ -13,8 +13,12 @@
 
 
 ## Recaps:
-| File | Summary |
-| ---- | ------- |
+| File                                                           | Summary                                     |
+| -------------------------------------------------------------- | ------------------------------------------- |
+| [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                                |
+| [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Parties Began their Adventure in Trigentes  |
+| [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | The Party Investigates the Blackhand Killer |
+| [[Templates/Session Template\|Session Template]]            |                                             |
 
 
 ## Locations Visited:
@@ -29,6 +33,9 @@
 ## Loot Received:
 - [[Data/Items/Magic Items (WOTC)/Shiftweave\|Shiftweave]]/[[Data/Items/Magic Items (WOTC)/Glamerweave\|Glamerweave]] homebrew type clothing shift clothes twice a day
 - [[Data/Items/Magic Items/A-M/Hat of Disguise\|Hat of Disguise]] - 
+
+## Quests:
+- [[Ayshra/Campaign 01/Quests/Black Hand Killer\|Black Hand Killer]]
 
 ## Other notes:
 
