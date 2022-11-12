@@ -14,11 +14,11 @@
 ## Neigborhoods:
 | File                                                                                            | Type                            | Summary |
 | ----------------------------------------------------------------------------------------------- | ------------------------------- | ------- |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Briarcliff Bluffs\|Briarcliff Bluffs]] | residential                     | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Civil Center\|Civil Center]]           | residential/commercial/industry | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Briarcliff Bluffs\|Briarcliff Bluffs]] | residential                     | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/North Bottoms\|North Bottoms]]         | industry                        | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/River Quay\|River Quay]]               | commercial/industry             | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Smithmille\|Smithmille]]               | residential/industry            | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/River Quay\|River Quay]]               | commercial/industry             | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Staley Farms\|Staley Farms]]           | industry                        | \-      |
 
 
