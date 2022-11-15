@@ -19,10 +19,10 @@ The indiginous people and settlers clash, causing Stone to be unable to particip
 | ---------------------------------------------------------------------------------------------- | ------------------------------- | ------- |
 | [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Armourdale\|Armourdale]]             | industry                        | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Mission Farms\|Mission Farms]]       | agriculture                     | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Stony Point\|Stony Point]]           | residential                     | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Overland Square\|Overland Square]]   | residential/commercial/industry | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Westheights\|Westheights]]           | residential                     | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Strawberry Hills\|Strawberry Hills]] | residential/commercial          | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Stony Point\|Stony Point]]           | residential                     | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Stone/Neighborhoods/Westheights\|Westheights]]           | residential                     | \-      |
 
 
 ## Industries/Guilds/Unions:
