@@ -5,11 +5,11 @@
 # Session 01
 
 ## Attendees:
-- [[Players/Patrick\|Patrick]] (#)
-- [[Players/Nick\|Nick]] (#)
-- [[Players/Rie\|Rie]] (#)
-- [[Players/Ellis\|Ellis]] (#)
-- [[Players/David\|David]] (#)
+- [[Players/Patrick\|Patrick]] (Connor)
+- [[Players/Nick\|Nick]] (Tom)
+- [[Players/Rie\|Rie]] (Kit)
+- [[Players/Ellis\|Ellis]] (Heartworm)
+- [[Players/David\|David]] (Edgar)
 
 
 ## Recaps:
