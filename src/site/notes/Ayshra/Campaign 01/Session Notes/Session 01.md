@@ -18,6 +18,7 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                                |
 | [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Parties Began their Adventure in Trigentes  |
 | [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | The Party Investigates the Blackhand Killer |
+| [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass    |
 
 
 ## Locations Visited:
@@ -27,7 +28,7 @@
 
 ## NPCs involved:
 -  [[Ayshra/NPCs/Dead-eye Nix\|Dead-eye Nix]]
--  [[Inbox/Sheriff's Deputy Geoff\|Sheriff's Deputy Geoff]]
+-  [[Ayshra/NPCs/Geoff Needlebelly\|Geoff Needlebelly]]
 
 ## Loot Received:
 - [[Data/Items/Magic Items (WOTC)/Shiftweave\|Shiftweave]]/[[Data/Items/Magic Items (WOTC)/Glamerweave\|Glamerweave]] homebrew type clothing shift clothes twice a day
@@ -44,4 +45,4 @@ Spoke with [[Ayshra/NPCs/Dead-eye Nix\|Dead-eye Nix]] about three quests ([[Aysh
 
 Arriving at [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Briarcliff Bluffs\|Briarcliff Bluffs]] at 6:00 PM, drew the attention of the local deputies because [[Players/Nick\|Nick]] created an illusion of a large money bag, and [[Players/David\|David]] created a second one. [[Players/Nick\|Nick]] then shouted that he stole that money from his wealthy master.
 
-[[Players/Rie\|Rie]] dissuaded [[Inbox/Sheriff's Deputy Geoff\|Sheriff's Deputy Geoff]] from taking any further action, and they lead them to the local Sheriff's office.
+[[Players/Rie\|Rie]] dissuaded [[Ayshra/NPCs/Geoff Needlebelly\|Geoff Needlebelly]] from taking any further action, and they lead them to the local Sheriff's office.
