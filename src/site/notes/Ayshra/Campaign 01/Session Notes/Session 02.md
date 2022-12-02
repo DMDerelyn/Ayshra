@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ayshra/campaign-01/session-notes/session-02/","dgShowLocalGraph":true}
 ---
 
-# 001_20221006
+# Session 02
 
 ## Attendees:
 - [[Players/Patrick\|Patrick]] (Connor)
@@ -18,6 +18,7 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                                |
 | [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Parties Began their Adventure in Trigentes  |
 | [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | The Party Investigates the Blackhand Killer |
+| [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass    |
 
 
 ## Locations Visited:
@@ -59,4 +60,4 @@ Their names are:
 - Elaina Lightboot
 - Orthia Lightboot
 - Raul Lightboot
-- Mason Lightboot
+- Mason Lightboot 
