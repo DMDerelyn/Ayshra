@@ -15,7 +15,7 @@ Briarcliffe Bluffs is one of the few places in the [[Ayshra/Continents/Ulai/Trig
 
 ## History:
 
-Briarcliffe Bluffs was a barely accessible infill site located just north of [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/North Bottoms\|North Bottoms]], overlooking the [[Cobalt River\|Cobalt River]]. Over the past decade, Briarcliffe Bluffs has grown to house some of the most prominent citizens of [[Ayshra/Continents/Ulai/Trigentes/Clay/Clay\|Clay]], including union leaders, government officials, and other wealthy individuals who wish to stay close to the areas that are important to them, while also feeling like they are "away" from the hustle and bustle. 
+Briarcliffe Bluffs was a barely accessible infill site located just north of [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/North Bottoms\|North Bottoms]], overlooking the [[Ayshra/Continents/Ulai/Trigentes/Cobalt River\|Cobalt River]]. Over the past decade, Briarcliffe Bluffs has grown to house some of the most prominent citizens of [[Ayshra/Continents/Ulai/Trigentes/Clay/Clay\|Clay]], including union leaders, government officials, and other wealthy individuals who wish to stay close to the areas that are important to them, while also feeling like they are "away" from the hustle and bustle. 
 
 ## Industries/Guilds/Unions:
 | File | Type | Summary |
