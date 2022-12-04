@@ -70,3 +70,5 @@ Prestige points are gained 1:1 with renown points, and can be spent on special b
 
 Picking this option causes the character to lose all titles with other factions, but has no impact on the reputation with other friendly factions. The character's status with rival factions will automaticaly drop to Hated unless at Hunted, in which case it will remain at Hunted. If the character goes against the aims and goals of the faction, they can be removed, and will have their Renown points reduced by 5. 
 
+
+based on: https://www.reddit.com/r/DnD/comments/7ys0dz/house_rules_of_faction_renown_prestige/
