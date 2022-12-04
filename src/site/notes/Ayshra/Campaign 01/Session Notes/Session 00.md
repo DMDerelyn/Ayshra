@@ -20,6 +20,9 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass |
 
 
+Region: [[Ayshra/Continents/Ulai/Trigentes/Trigentes\|Trigentes]]
+Starting Settlement: [[Ayshra/Continents/Ulai/Trigentes/Clay/Clay\|Clay]]
+
 ## Backstories:
 
 
