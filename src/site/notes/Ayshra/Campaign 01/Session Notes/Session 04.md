@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ayshra/campaign-01/session-notes/session-04/","dgShowLocalGraph":true}
 ---
 
-# Session 4
+# Session 04
 
 ## Attendees:
 - [[Players/Patrick\|Patrick]] (Connor)
