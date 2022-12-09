@@ -11,10 +11,11 @@
 - [[Ayshra/Crime & Punishment\|Crime & Punishment]]
 - [[Ayshra/Renown & Presitge Points\|Renown & Presitge Points]]
 ## Session Notes:
-| Link                                                           | Summary                                  |
-| -------------------------------------------------------------- | ---------------------------------------- |
-| [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                             |
-| [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Party Began their Adventure in Trigentes |
-| [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | Party Investigates the Blackhand Killer  |
-| [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass |
+| Link                                                           | Summary                                             |
+| -------------------------------------------------------------- | --------------------------------------------------- |
+| [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                                        |
+| [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Party Began their Adventure in Trigentes            |
+| [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | Party Investigates the Blackhand Killer             |
+| [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass            |
+| [[Ayshra/Campaign 01/Session Notes/Session 04\|Session 04]] | Party procures items from the local evidence locker |
 
