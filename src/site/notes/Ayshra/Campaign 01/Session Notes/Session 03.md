@@ -13,12 +13,13 @@
 
 
 ## Recaps:
-| Link                                                           | Summary                                  |
-| -------------------------------------------------------------- | ---------------------------------------- |
-| [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                             |
-| [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Party Began their Adventure in Trigentes |
-| [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | Party Investigates the Blackhand Killer  |
-| [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass |
+| Link                                                           | Summary                                             |
+| -------------------------------------------------------------- | --------------------------------------------------- |
+| [[Ayshra/Campaign 01/Session Notes/Session 00\|Session 00]] | Session Zero                                        |
+| [[Ayshra/Campaign 01/Session Notes/Session 01\|Session 01]] | Party Began their Adventure in Trigentes            |
+| [[Ayshra/Campaign 01/Session Notes/Session 02\|Session 02]] | Party Investigates the Blackhand Killer             |
+| [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass            |
+| [[Ayshra/Campaign 01/Session Notes/Session 04\|Session 04]] | Party procures items from the local evidence locker |
 
 
 ## Locations Visited:
@@ -44,7 +45,7 @@ There, the three took up different positions around the tavern: Tom took a seat 
 
 Kit searched the passed out elf, and found a note in elvish with tear stains on it, a woman's wedding band with elvish engraving on it, an engagement ring, and ten silver. Kit also found the key to Room No. 3.
 
-Tom continued to loudly proclaim that he was rich and had lots of goods that he was taking goods to a different part of town by land. The group noticed two people sets of people who were acting suspiciously. Tom paid for food and a room, totaling 2s & 1c. He received the key for Room No. 2. 
+Tom continued to loudly proclaim that he was rich and had lots of goods that he was taking  to a different part of town by land. The group noticed two people sets of people who were acting suspiciously. Tom paid for food and a room, totaling 2s & 1c. He received the key for Room No. 2. 
 
 The first was a pair of dwarves, who Heartworm attempted to speak with directly about getting into the black market. They were hesitant and untrusting of his direct approach out in the open. 
 
