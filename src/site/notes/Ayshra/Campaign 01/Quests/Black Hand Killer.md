@@ -16,7 +16,7 @@
 #quest/BlackHandKiller 
 - [x] Find the location of Black Hand Killer's house
 - [x] Optional: Speak with the local Sheriff re: Black Hand Killer (real name: Bill)
-- [ ] Optional: Capture Black Hand Killer
+- [x] Optional: Capture Black Hand Killer
 - [ ] Optional: Kill Black Hand Killer
 
 ## Reward(s):
