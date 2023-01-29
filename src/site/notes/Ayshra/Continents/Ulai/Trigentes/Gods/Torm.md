@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/gods/torm/"}
+{"dg-publish":true,"permalink":"/ayshra/continents/ulai/trigentes/gods/torm/","tags":["inbox"]}
 ---
 
 # Torm
