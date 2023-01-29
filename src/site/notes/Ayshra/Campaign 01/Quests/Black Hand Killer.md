@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/campaign-01/quests/black-hand-killer/"}
+{"dg-publish":true,"permalink":"/ayshra/campaign-01/quests/black-hand-killer/","tags":["quest"]}
 ---
 
 # Black Hand Killer
@@ -18,6 +18,9 @@
 - [x] Optional: Speak with the local Sheriff re: Black Hand Killer (real name: Bill)
 - [x] Optional: Capture Black Hand Killer
 - [ ] Optional: Kill Black Hand Killer
+- [x] Optional: Speak with Black Hand Killer (discover that there's someone impersonating him - he's disabled and retired)
+- [ ] Optional: Find the imposter & kill or capture him
+- [ ] Optional: Confront [[Ayshra/NPCs/Emry Duskdancer\|Emry Duskdancer]]
 
 ## Reward(s):
 
