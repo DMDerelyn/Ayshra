@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/economics/"}
+{"dg-publish":true,"permalink":"/ayshra/economics/","dgShowLocalGraph":true}
 ---
 
 ### Real World Equivalent
