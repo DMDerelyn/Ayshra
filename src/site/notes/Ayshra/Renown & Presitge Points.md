@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/renown-and-presitge-points/"}
+{"dg-publish":true,"permalink":"/ayshra/renown-and-presitge-points/","dgShowLocalGraph":true}
 ---
 
 # Renown & Prestige Points
