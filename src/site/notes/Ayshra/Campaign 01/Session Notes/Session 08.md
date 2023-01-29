@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ayshra/campaign-01/session-notes/session-08/","tags":["session,"],"dgShowLocalGraph":true}
 ---
 
-# Session <% tp.frontmatter.sessionNum %>
+# Session 08
 
 ## Attendees:
 - [[Players/Patrick\|Patrick]] (Connor)
