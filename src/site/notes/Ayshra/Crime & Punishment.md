@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ayshra/crime-and-punishment/"}
+{"dg-publish":true,"permalink":"/ayshra/crime-and-punishment/","dgShowLocalGraph":true}
 ---
 
 # Crime & Punishment:
