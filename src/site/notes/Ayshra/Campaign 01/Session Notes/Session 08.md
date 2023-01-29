@@ -11,7 +11,6 @@
 - [[Players/Ellis\|Ellis]] (Heartworm)
 - [[Players/David\|David]] (Edgar)
 
-
 ## Recaps:
 | File                                                           | Summary                                                                            |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -28,7 +27,6 @@
 
 ## Locations Visited:
 - [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Civil Center\|Civil Center]]
-
 ## NPCs involved:
 - Teamster's Union Member (name unknown)
 ## Loot Received:
@@ -50,4 +48,6 @@ The current election involves electing all the heads of the various unions, who 
 
 There are 8 days until election day. 
 
-The party decided to investigate Randal's house, the Civil Center chapter's manager for the Teamster's Union. They found his house, broke in, and discovered one of the back rooms was ransacked. The party continues their investigation.
+The party decided to investigate Randal's house, the Civil Center chapter's manager for the Teamster's Union. They found his house, broke in, and discovered one of the back rooms was ransacked. The party continues their investigation. The party decides to investigate the Central Bank next, one of the banks that has been closed for the last few days. They discover that the bank was robbed, and a bank teller was killed. They found footprints leading to a storm cellar. The tracks in the storm cellar led to a hidden passageway that lead to an underground tunnel system. The party continues their investigation.
+
+The party decides to investigate the temple next, since they have not had any clues lead there yet. They find that someone has broken in and stolen some of the holy relics. They also find a secret passage leading to an underground tunnel system. The party continues their investigation.
