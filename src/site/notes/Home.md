@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowLocalGraph":true}
 ---
 
 # Ayshra
@@ -19,4 +19,7 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 03\|Session 03]] | Party Investigates at Fightin' Hourglass                                           |
 | [[Ayshra/Campaign 01/Session Notes/Session 04\|Session 04]] | Party procures items from the local evidence locker                                |
 | [[Ayshra/Campaign 01/Session Notes/Session 05\|Session 05]] | The Party discovers there's more to the Black Hand Killer than they initially knew |
+| [[Ayshra/Campaign 01/Session Notes/Session 06\|Session 06]] | The party deceives Emry Duskdancer                                                 |
+| [[Ayshra/Campaign 01/Session Notes/Session 07\|Session 07]] | The party sells their stolen goods                                                 |
+| [[Ayshra/Campaign 01/Session Notes/Session 08\|Session 08]] | The party learns more about the Teamster's Union                                   |
 
