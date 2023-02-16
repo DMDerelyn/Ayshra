@@ -23,6 +23,7 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 06\|Session 06]] | The party deceives Emry Duskdancer                                                 |
 | [[Ayshra/Campaign 01/Session Notes/Session 07\|Session 07]] | The party sells their stolen goods                                                 |
 | [[Ayshra/Campaign 01/Session Notes/Session 08\|Session 08]] | The party learns more about the Teamster's Union                                   |
+| [[Ayshra/Campaign 01/Session Notes/Session 09\|Session 09]] | The party finds themselves trapped inside a dollhouse                              |
 
 
 Region: [[Ayshra/Continents/Ulai/Trigentes/Trigentes\|Trigentes]]
