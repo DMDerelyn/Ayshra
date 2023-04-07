@@ -21,16 +21,16 @@ The main industries found within the city limits: ranching, forestry, butchery, 
 ## Neigborhoods:
 | File                                                                                                     | Type                                 | Summary |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
-| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Country Club Plaza\|Country Club Plaza]] | commercial                           | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Blue Valley Farms\|Blue Valley Farms]]   | farm                                 | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Country Club Plaza\|Country Club Plaza]] | commercial                           | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crossroads\|Crossroads]]                 | residential                          | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crown Center\|Crown Center]]             | residential/commercial               | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/East Bottoms\|East Bottoms]]             | industry                             | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Hospital Hill\|Hospital Hill]]           | residential/commercial/industry/none | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Independence\|Independence]]             | residential, commercial              | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/River Market\|River Market]]             | commercial                           | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Westport\|Westport]]                     | residential/commercial/industry/none | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/West Bottoms\|West Bottoms]]             | commercial                           | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Westport\|Westport]]                     | residential/commercial/industry/none | \-      |
 
 
 ## Industries/Guilds/Unions:
