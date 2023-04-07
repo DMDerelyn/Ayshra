@@ -25,6 +25,10 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 07\|Session 07]] | The party sells their stolen goods                                                 |
 | [[Ayshra/Campaign 01/Session Notes/Session 08\|Session 08]] | The party learns more about the Teamster's Union                                   |
 | [[Ayshra/Campaign 01/Session Notes/Session 09\|Session 09]] | The party finds themselves trapped inside a dollhouse                              |
+| [[Ayshra/Campaign 01/Session Notes/Session 12\|Session 12]] | The part discover the past                                                         |
+| [[Ayshra/Campaign 01/Session Notes/Session 13\|Session 13]] | The party travels to the past?                                                     |
+| [[Ayshra/Campaign 01/Session Notes/Session 14\|Session 14]] | The party explores the past                                                        |
+| [[Ayshra/Campaign 01/Session Notes/Session 15\|Session 15]] | The party prepares to confront Darius Corvius                                      |
 
 
 ## Locations Visited:
