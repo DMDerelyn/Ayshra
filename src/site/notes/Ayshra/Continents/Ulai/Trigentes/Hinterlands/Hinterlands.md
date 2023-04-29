@@ -23,20 +23,22 @@ The main industries found within the city limits: ranching, forestry, butchery, 
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------- |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Blue Valley Farms\|Blue Valley Farms]]   | farm                                 | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Country Club Plaza\|Country Club Plaza]] | commercial                           | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crossroads\|Crossroads]]                 | residential                          | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crown Center\|Crown Center]]             | residential/commercial               | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/East Bottoms\|East Bottoms]]             | industry                             | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Crossroads\|Crossroads]]                 | residential                          | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Hospital Hill\|Hospital Hill]]           | residential/commercial/industry/none | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Independence\|Independence]]             | residential, commercial              | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/River Market\|River Market]]             | commercial                           | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/West Bottoms\|West Bottoms]]             | commercial                           | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Neighborhoods/Westport\|Westport]]                     | residential/commercial/industry/none | \-      |
 
+{ .block-language-dataview}
 
 ## Industries/Guilds/Unions:
 | File | Type | Location |
 | ---- | ---- | -------- |
 
+{ .block-language-dataview}
 ## Food Security:
 
 ## Population: 10,000 
@@ -58,34 +60,42 @@ Important government officials:
 | File | Sector |
 | ---- | ------ |
 
+{ .block-language-dataview}
 
 ## Religion(s):
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Shops:
 | File | Type | Location |
 | ---- | ---- | -------- |
 
+{ .block-language-dataview}
 ## Taverns:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Parks & Recreation:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Landmarks:
 | File                                                                                                   | Location     |
 | ------------------------------------------------------------------------------------------------------ | ------------ |
 | [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Landmarks/The Queen's Kitchen\|The Queen's Kitchen]] | Crown Center |
 
+{ .block-language-dataview}
 ## Factions:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Secret Factions:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 
