@@ -22,28 +22,35 @@ These places of business are equipped with magical means to stay open all four s
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Shops:
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Taverns:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Parks & Recreation:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Landmarks:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Secret Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 
