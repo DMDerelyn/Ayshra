@@ -27,28 +27,35 @@ Almost all residents of this neighborhood have a vitriolic hatred for natives.
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Shops:
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Taverns:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Parks & Recreation:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Landmarks:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Secret Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 
