@@ -15,17 +15,19 @@
 | File                                                                                            | Type                            | Summary |
 | ----------------------------------------------------------------------------------------------- | ------------------------------- | ------- |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Briarcliff Bluffs\|Briarcliff Bluffs]] | residential                     | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Civil Center\|Civil Center]]           | residential/commercial/industry | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/North Bottoms\|North Bottoms]]         | industry                        | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/River Quay\|River Quay]]               | commercial/industry             | \-      |
-| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Smithmille\|Smithmille]]               | residential/industry            | \-      |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Staley Farms\|Staley Farms]]           | industry                        | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Civil Center\|Civil Center]]           | residential/commercial/industry | \-      |
+| [[Ayshra/Continents/Ulai/Trigentes/Clay/Neighborhoods/Smithmille\|Smithmille]]               | residential/industry            | \-      |
 
+{ .block-language-dataview}
 
 ## Industries/Guilds/Unions:
 | File | Type | Location |
 | ---- | ---- | -------- |
 
+{ .block-language-dataview}
 ## Food Security:
 
 ## Population: 5,000 
@@ -47,34 +49,42 @@ Important government officials:
 | File | Sector |
 | ---- | ------ |
 
+{ .block-language-dataview}
 
 ## Religion(s):
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Shops:
 | File | Type | Location |
 | ---- | ---- | -------- |
 
+{ .block-language-dataview}
 ## Taverns:
 | File                                                                              | Location   |
 | --------------------------------------------------------------------------------- | ---------- |
 | [[Ayshra/Continents/Ulai/Trigentes/Clay/Landmarks/Casino Queen\|Casino Queen]] | River Quay |
 
+{ .block-language-dataview}
 ## Parks & Recreation:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Landmarks:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Factions:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 ## Secret Factions:
 | File | Location |
 | ---- | -------- |
 
+{ .block-language-dataview}
 
