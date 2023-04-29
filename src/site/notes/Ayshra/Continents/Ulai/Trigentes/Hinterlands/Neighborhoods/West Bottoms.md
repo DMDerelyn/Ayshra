@@ -25,28 +25,35 @@ The unions are considering setting up a sports arena to draw more people in.
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Shops:
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Taverns:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Parks & Recreation:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Landmarks:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Secret Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 
