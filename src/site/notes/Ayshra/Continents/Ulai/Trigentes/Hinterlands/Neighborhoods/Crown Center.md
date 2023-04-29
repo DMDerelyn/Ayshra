@@ -26,18 +26,22 @@ Most residents of this neighborhood are [[Royalists\|Royalists]].
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Shops:
 | File | Type | Summary |
 | ---- | ---- | ------- |
 
+{ .block-language-dataview}
 ## Taverns:
 | File |
 | ---- |
 
+{ .block-language-dataview}
 ## Parks & Recreation:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Landmarks:
 - [[Ayshra/Continents/Ulai/Trigentes/Hinterlands/Landmarks/The Queen's Kitchen\|The Queen's Kitchen]]
 
@@ -45,8 +49,10 @@ Most residents of this neighborhood are [[Royalists\|Royalists]].
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 ## Secret Factions:
 | File | Type |
 | ---- | ---- |
 
+{ .block-language-dataview}
 
