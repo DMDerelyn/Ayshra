@@ -32,6 +32,7 @@
 | [[Ayshra/Campaign 01/Session Notes/Session 14\|Session 14]] | The party explores the past                                                        |
 | [[Ayshra/Campaign 01/Session Notes/Session 15\|Session 15]] | The party prepares to confront Darius Corvius                                      |
 
+{ .block-language-dataview}
 
 ## Locations Visited:
 - [[Fightin' Hourglass\|Fightin' Hourglass]]
